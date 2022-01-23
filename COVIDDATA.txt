@@ -1,0 +1,56 @@
+STATE,CITY,ACTIVECASES,LAT,LON
+Andhra Pradesh,Amaravati,130000,16.51,80.51
+Arunachal Pradesh,Itanagar,10000,27.10,93.60
+Assam,Dispur,15000,26.15,91.78
+Bihar,Patna,200000,25.72,85.19
+Chhattisgarh,Raipur,50000,21.49,81.78
+Goa,Panaji,60000,15.50,73.83
+Gujarat,Gandhinagar,180000,23.25,72.62
+Haryana,Chandigarh,110000,29.15,76.25
+Himachal Pradesh,Shimla,70000,31.14,77.18
+Jammu and Kashmir,Srinagar,115000,34.11,74.78
+Jharkhand,Ranchi,120000,23.36,85.29
+Karnataka,Bengaluru,300000,13.07,77.60
+Kerala,Thiruvananthapuram,280000,8.60,76.95
+Madhya Pradesh,Bhopal,250000,23.21,77.48
+Maharashtra,Mumbai,500000,19.72,72.73
+Manipur,Imphal,40000,24.59,93.90
+Meghalaya,Shillong,35000,25.64,91.91
+Mizoram,Aizawl,28000,23.76,92.69
+Nagaland,Kohima,40000,25.67,94.10
+Odisha,Bhubaneswar,80000,20.43,85.89
+Punjab,Chandigarh,120000,30.54,75.96
+Rajasthan,Jaipur,160000,27.10,75.84
+Sikkim,Gangtok,20000,27.42,88.62
+Tamil Nadu,Chennai,350000,13.06,80.27
+Telangana,Hyderabad,250000,17.56,78.50
+Tripura,Agartala,25000,23.89,91.25
+Uttar Pradesh,Lucknow,400000,27.00,80.94
+Uttarakhand,Dehradun,50000,30.48,77.98
+West Bengal,Kolkata,360000,22.55,88.30
+Andaman and Nicobar Islands,Port Blair,5000,11.65,92.72
+Chandigarh,Chandigarh,15000,30.82,76.75
+Dadra and Nagar Haveli,Silvassa,7500,20.28,73.00
+Daman and Diu,Daman,9000,20.39,72.82
+Delhi,Delhi,470000,28.54,77.22
+Lakshadweep,Kavaratti,6000,10.57,72.63
+Pondicherry,Pondicherry,12000,11.93,79.81
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
